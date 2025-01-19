@@ -17,8 +17,6 @@ function HeroSection() {
                                     'Tushar Sharma',
                                     1000,
                                     'Software Engineer',
-                                    1000,
-                                    'Web Developer',
                                     1000
 
                                 ]}
